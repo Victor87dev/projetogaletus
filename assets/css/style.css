@@ -1,0 +1,51 @@
+*{
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+body{
+padding: 20px;
+
+}
+h1{
+  padding: 10px 0;
+  font-size: 48px;
+  font-weight: 700;
+ text-align: center; 
+}
+
+h2{
+font-size: 36px;
+margin: 30px 0 15px 0;
+}
+ul{
+   margin: 0 0 10px 20px;
+   margin-block-end: 5;
+   margin-block-start: 5;
+
+}
+    
+p{
+  font-size: 16px;
+  margin-bottom: 10px;
+}
+
+a{
+    text-decoration: none;
+}
+
+ol{
+  margin: 0 0 10px 20px;
+}
+
+.localizacoes, .faleConosco{
+ margin-bottom: 10px;
+
+}
+
+span{
+ color: rgb(0, 0, 103);
+
+
+}
+
